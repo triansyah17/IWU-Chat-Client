@@ -1,0 +1,40 @@
+body {
+  background-color: #f6f6f6;
+}
+
+.btn-google {
+  background-color: #fff;
+  color: #7e98df;
+  border-color: #7e98df;
+}
+
+.btn-google:hover {
+  background-color: #7e98df;
+  color: #fff;
+  border-color: #7e98df;
+}
+
+.auth {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #fff;
+  max-width: 450px;
+  padding: 30px 40px 30px 40px;
+  border-radius: 15px;
+}
+
+.input-auth {
+  border: none;
+  border-bottom: 1px solid black;
+  border-radius: 0;
+}
+
+.line {
+  background-color: rgb(207, 207, 207);
+  height: 2px;
+}
+
+.title-bottom {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
